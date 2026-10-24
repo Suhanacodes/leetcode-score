@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
