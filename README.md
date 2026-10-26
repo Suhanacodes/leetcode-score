@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Suhanacodes/leetcode-score/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Suhanacodes/leetcode-score/tree/master/0704-binary-search) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Suhanacodes/leetcode-score/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |
