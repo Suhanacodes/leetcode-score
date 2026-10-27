@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Suhanacodes/leetcode-score/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Suhanacodes/leetcode-score/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0507-perfect-number) |
