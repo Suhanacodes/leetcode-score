@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Suhanacodes/leetcode-score/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Suhanacodes/leetcode-score/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Suhanacodes/leetcode-score/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Suhanacodes/leetcode-score/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
@@ -58,5 +59,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Suhanacodes/leetcode-score/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Suhanacodes/leetcode-score/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
