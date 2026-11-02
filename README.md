@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/Suhanacodes/leetcode-score/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Suhanacodes/leetcode-score/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Suhanacodes/leetcode-score/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Suhanacodes/leetcode-score/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Suhanacodes/leetcode-score/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -61,6 +63,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Suhanacodes/leetcode-score/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Suhanacodes/leetcode-score/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
