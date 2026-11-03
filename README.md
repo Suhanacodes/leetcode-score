@@ -12,6 +12,7 @@
 | [0118-pascals-triangle](https://github.com/Suhanacodes/leetcode-score/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Suhanacodes/leetcode-score/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Suhanacodes/leetcode-score/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -51,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 ## Simulation
 |  |
