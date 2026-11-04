@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Suhanacodes/leetcode-score/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Suhanacodes/leetcode-score/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Suhanacodes/leetcode-score/tree/master/0054-spiral-matrix) |
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Suhanacodes/leetcode-score/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0283-move-zeroes) |
@@ -53,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Suhanacodes/leetcode-score/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 ## Simulation
