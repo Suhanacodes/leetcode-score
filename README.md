@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/Suhanacodes/leetcode-score/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Suhanacodes/leetcode-score/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Suhanacodes/leetcode-score/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Suhanacodes/leetcode-score/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Suhanacodes/leetcode-score/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@
 | [0015-3sum](https://github.com/Suhanacodes/leetcode-score/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Suhanacodes/leetcode-score/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Suhanacodes/leetcode-score/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suhanacodes/leetcode-score/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -59,6 +61,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Suhanacodes/leetcode-score/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Suhanacodes/leetcode-score/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Suhanacodes/leetcode-score/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 ## Simulation
@@ -82,4 +85,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Suhanacodes/leetcode-score/tree/master/0412-fizz-buzz) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suhanacodes/leetcode-score/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Suhanacodes/leetcode-score/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
