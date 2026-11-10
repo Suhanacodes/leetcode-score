@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/Suhanacodes/leetcode-score/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Suhanacodes/leetcode-score/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Suhanacodes/leetcode-score/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Suhanacodes/leetcode-score/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@
 | [0053-maximum-subarray](https://github.com/Suhanacodes/leetcode-score/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Suhanacodes/leetcode-score/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Suhanacodes/leetcode-score/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Suhanacodes/leetcode-score/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
