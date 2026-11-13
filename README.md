@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/Suhanacodes/leetcode-score/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Suhanacodes/leetcode-score/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Suhanacodes/leetcode-score/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1480-running-sum-of-1d-array](https://github.com/Suhanacodes/leetcode-score/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suhanacodes/leetcode-score/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Suhanacodes/leetcode-score/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Suhanacodes/leetcode-score/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
