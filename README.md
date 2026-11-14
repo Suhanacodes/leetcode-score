@@ -36,6 +36,7 @@
 | [0027-remove-element](https://github.com/Suhanacodes/leetcode-score/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Suhanacodes/leetcode-score/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Suhanacodes/leetcode-score/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Suhanacodes/leetcode-score/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suhanacodes/leetcode-score/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -96,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Suhanacodes/leetcode-score/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Suhanacodes/leetcode-score/tree/master/0412-fizz-buzz) |
 ## Quicksort
 |  |
