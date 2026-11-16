@@ -46,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Suhanacodes/leetcode-score/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Suhanacodes/leetcode-score/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Suhanacodes/leetcode-score/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Suhanacodes/leetcode-score/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Suhanacodes/leetcode-score/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Suhanacodes/leetcode-score/tree/master/0070-climbing-stairs) |
@@ -101,6 +103,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Suhanacodes/leetcode-score/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Suhanacodes/leetcode-score/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Suhanacodes/leetcode-score/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Suhanacodes/leetcode-score/tree/master/0412-fizz-buzz) |
