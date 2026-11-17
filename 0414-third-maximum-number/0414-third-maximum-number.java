@@ -8,16 +8,16 @@ class Solution {
             if(current==first || current==second || current==third){
                 continue;
             }
-            if(current>=first){
+            if(current>first){
                 third=second;
                 second=first;
                 first=current;
             }
-            else if(current>=second){
+            else if(current>second){
                 third=second;
                 second=current;
             }
-            else if(current>=third){
+            else if(current>third){
                 third=current;
             }
         }
