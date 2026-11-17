@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Suhanacodes/leetcode-score/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Suhanacodes/leetcode-score/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Suhanacodes/leetcode-score/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -80,6 +81,7 @@
 | [0088-merge-sorted-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0414-third-maximum-number) |
 ## Simulation
 |  |
 | ------- |
