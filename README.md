@@ -28,6 +28,7 @@
 | [0704-binary-search](https://github.com/Suhanacodes/leetcode-score/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Suhanacodes/leetcode-score/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Suhanacodes/leetcode-score/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Suhanacodes/leetcode-score/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suhanacodes/leetcode-score/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@
 | [0048-rotate-image](https://github.com/Suhanacodes/leetcode-score/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Suhanacodes/leetcode-score/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/Suhanacodes/leetcode-score/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
