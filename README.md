@@ -29,6 +29,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Suhanacodes/leetcode-score/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Suhanacodes/leetcode-score/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Suhanacodes/leetcode-score/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Suhanacodes/leetcode-score/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suhanacodes/leetcode-score/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Suhanacodes/leetcode-score/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Suhanacodes/leetcode-score/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/Suhanacodes/leetcode-score/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suhanacodes/leetcode-score/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
