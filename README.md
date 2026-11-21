@@ -43,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Suhanacodes/leetcode-score/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Suhanacodes/leetcode-score/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suhanacodes/leetcode-score/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhanacodes/leetcode-score/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Suhanacodes/leetcode-score/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Suhanacodes/leetcode-score/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 ## Math
@@ -62,6 +64,7 @@
 | [0066-plus-one](https://github.com/Suhanacodes/leetcode-score/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Suhanacodes/leetcode-score/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Suhanacodes/leetcode-score/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Suhanacodes/leetcode-score/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0507-perfect-number) |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Suhanacodes/leetcode-score/tree/master/1480-running-sum-of-1d-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
