@@ -68,6 +68,7 @@
 | [0268-missing-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Suhanacodes/leetcode-score/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Suhanacodes/leetcode-score/tree/master/0507-perfect-number) |
+| [2235-add-two-integers](https://github.com/Suhanacodes/leetcode-score/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
